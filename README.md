@@ -32,9 +32,6 @@ Experiência em estruturação de rotinas administrativas, organização documen
 ### Projetos institucionais e desenvolvimento territorial
 Atuação em planejamento, articulação institucional, coordenação de equipes, gestão de stakeholders e execução de iniciativas públicas, culturais e regionais.
 
-### Eixo360 — Organização, método e produtividade
-Projeto autoral voltado à estruturação de rotinas, organização pessoal, clareza estratégica e melhoria contínua aplicada à vida e ao trabalho.
-
 ---
 
 ## Em construção
