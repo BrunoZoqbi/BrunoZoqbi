@@ -80,7 +80,7 @@ Os projetos serão publicados de forma progressiva conforme a evolução do port
 ## Conecte-se
 
 LinkedIn  
-<PRIVATE_URL>
+https://www.linkedin.com/in/brunozoqbi/
 
 Website  
 https://zoqbi.com
