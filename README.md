@@ -1,62 +1,58 @@
 # Bruno Zoqbi
 
-Analista de Projetos, Processos e Operações com foco em organização, eficiência e tomada de decisão baseada em dados.
+Project Manager | Projetos, Processos e Operações | Dados e IA aplicada à gestão
 
-Minha trajetória combina mais de 20 anos de experiência em gestão pública, comunicação e coordenação de projetos com a transição para tecnologia, processos e análise de dados aplicados à operação.
+Profissional com mais de 20 anos de experiência em gestão, articulação institucional, organização de processos e coordenação de iniciativas em contextos públicos, institucionais e operacionais.
 
----
+Minha trajetória conecta gestão pública, comunicação, operações e projetos com uma transição estruturada para tecnologia, análise de dados e inteligência artificial aplicada à gestão.
 
-## Experiência Aplicada
-
-### Fibron — Operações e Processos
-
-- Análise de fluxos operacionais
-- Organização do atendimento
-- Estruturação de processos internos
-- Apoio à tomada de decisão
-- Redução de retrabalho
+Atualmente utilizo o GitHub como base para construir um portfólio profissional voltado a projetos práticos relacionados a eficiência operacional, melhoria contínua, transformação digital, organização de processos e apoio à tomada de decisão.
 
 ---
 
-### Gestão Pública — Processos Administrativos
+## Áreas de atuação
 
-- Organização de rotinas administrativas
-- Estruturação de projetos institucionais
-- Planejamento e execução de ações
-- Coordenação de atividades e processos
-
----
-
-### Eixo360 — Organização e Produtividade
-
-Projeto pessoal voltado para:
-
-- Organização de rotinas
-- Estruturação de processos pessoais
-- Planejamento estratégico
-- Produtividade e gestão pessoal
+- Gestão de projetos
+- Processos e BPM
+- Operações e melhoria contínua
+- Transformação digital
+- Dados aplicados à gestão
+- Inteligência artificial aplicada à gestão
 
 ---
 
-## Objetivo
+## Experiência aplicada
 
-Construir soluções práticas que organizem operações, melhorem processos e apoiem decisões com base em dados.
+### Fibron — Projetos, Processos e Operações
+Atuação em diagnóstico organizacional, mapeamento de processos, padronização de rotinas, apoio à gestão e melhoria operacional em provedor regional de internet e soluções tecnológicas.
+
+### Gestão Pública — Processos, organização e apoio à gestão
+Experiência em estruturação de rotinas administrativas, organização documental, apoio a programas e projetos institucionais, controle de informações e suporte à tomada de decisão.
+
+### Projetos institucionais e desenvolvimento territorial
+Atuação em planejamento, articulação institucional, coordenação de equipes, gestão de stakeholders e execução de iniciativas públicas, culturais e regionais.
+
+### Eixo360 — Organização, método e produtividade
+Projeto autoral voltado à estruturação de rotinas, organização pessoal, clareza estratégica e melhoria contínua aplicada à vida e ao trabalho.
 
 ---
 
-## Em Construção
+## Em construção
 
-Este GitHub está sendo estruturado para reunir projetos práticos relacionados a:
+Este perfil está sendo estruturado para reunir projetos estratégicos e portfólio profissional relacionados a:
 
 - Projetos e processos
 - Operações
 - Dados e dashboards
-- Organização e eficiência
+- Automação com IA
+- Soluções aplicadas à gestão
+- Produtos e iniciativas digitais
 
-Os projetos serão publicados gradualmente.
+Os projetos serão publicados de forma progressiva, conforme a evolução do portfólio.
 
 ---
 
 ## Conecte-se comigo
 
-LinkedIn: (Adicionar depois)
+- LinkedIn: https://www.linkedin.com/in/brunozoqbi
+- Website: https://zoqbi.com
